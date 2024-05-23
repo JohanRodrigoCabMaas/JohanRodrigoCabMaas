@@ -4,7 +4,7 @@ Johan Maas</a></h1>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,html,js,androidstudio,c,cs,cpp,java,php,dart,flutter,py,nodejs,mysql,sqlite,firebase,git,github,docker,postman,vscode,bash,linux,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=css,html,js,androidstudio,c,cs,cpp,java,php,dart,flutter,py,nodejs,mysql,sqlite,firebase,git,github,docker,postman,vscode,nestjs&perline=12" />
   </a>
 </p>
 <br>
